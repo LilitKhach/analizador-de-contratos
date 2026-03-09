@@ -1,4 +1,4 @@
-# 📦 Blueprint: Logística y Paquetería "Mensajería Express"
+# 📦 Blueprint: Logística y Paquetería "Mensajería Express"‌‌‌​‌​‌‌​﻿‍‍​﻿​‌​﻿‌‍‌‍‌‍​﻿‌﻿‌‍‌‌‌‍‌‌‌‍‌‌‌‍‌‌​﻿‍​‌‍​‍​﻿​​​﻿​﻿‌‍‌‌​﻿‌﻿​﻿​‌​﻿​​
 
 ## 📝 1. Enunciado y Contexto
 La empresa de paquetería **Mensajería Express** gestiona miles de envíos diarios y necesita migrar su estructura de datos desde aplicaciones no relacionales hacia un potente ORM empresarial sobre PostgreSQL.

@@ -1,4 +1,4 @@
-# 🎬 Blueprint: Sistema de Gestión "Cine Estrella"
+# 🎬 Blueprint: Sistema de Gestión "Cine Estrella"‌‌‌​‌​‌‌​﻿‍‍‌‍​﻿‌‍​﻿​﻿​‍​﻿‌‌​﻿‌​‌‍‌​​﻿‌‌‌‍​﻿​﻿‌‍​﻿‍‌‌‍‌‍​﻿‌‌‌‍‌‍‌‍​‍‌‍​‌​﻿‌​
 
 ## 📝 1. Enunciado y Contexto
 El **Cine Estrella** necesita modernizar su antiguo sistema de taquilla y cartelería, el cual actualmente funciona mediante archivos de texto (o en memoria). El objetivo de este proyecto es construir la capa de acceso a datos de un nuevo sistema usando persistencia real sobre una base de datos relacional. 

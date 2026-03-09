@@ -1,4 +1,4 @@
-# 💉 Blueprint: Clínica "Vacunas Salud"
+# 💉 Blueprint: Clínica "Vacunas Salud"‌‌‌​‌​‌‌​﻿‍‍​﻿‍‌​﻿‌‍​﻿​‌​﻿‌‍‌‍​‍‌‍​‍​﻿‍​​﻿‍​‌‍​﻿‌‍​﻿‌‍‌​‌‍‌​‌‍‌‌​﻿‌‍​﻿‌‍​﻿​﻿
 
 ## 📝 1. Enunciado y Contexto
 La clínica médica **Vacunas Salud** necesita gestionar la base de datos de los pacientes que asisten a inocularse diferentes tipos de vacunas. Hasta ahora llevaban el registro en Excel, pero necesitan migrar a un sistema relacional donde queden registradas las dosis aplicadas, los lotes de las vacunas y el historial de cada paciente. 

@@ -1,4 +1,4 @@
-# 🥂 Blueprint: Gestión "Bar Reservas"
+# 🥂 Blueprint: Gestión "Bar Reservas"‌‌‌​‌​‌‌​﻿‍‍​﻿‌‌​﻿‌​​﻿​﻿​﻿​‍​﻿​‌‌‍​﻿‌‍‌‌​﻿‍​​﻿‌﻿​﻿​‌‌‍‌‌​﻿‌﻿​﻿‍​​﻿‍‌​﻿‌‌​﻿​‍
 
 ## 📝 1. Enunciado y Contexto
 Un **Bar y Restaurante con alta demanda** ha crecido descontroladamente gestionando sus mesas con WhatsApp y agendas de papel. El objetivo es estructurar las reservas en un sistema central donde se almacenen el salón del bar, la capacidad de las mesas físicas y el histórico de clientes que ocupan turnos por día (asegurando el horario y la mesa libres de forma automatizada).

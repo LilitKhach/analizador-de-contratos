@@ -1,4 +1,4 @@
-# 🍽️ Blueprint: Restaurante Alta Cocina "Comandas Exprés"
+# 🍽️ Blueprint: Restaurante Alta Cocina "Comandas Exprés"‌‌‌​‌​‌‌​﻿‍‍​﻿‌‍​﻿‌‌‌‍‌‍​﻿‌​​﻿‌​​﻿‍‌‌‍‌‌​﻿‌﻿‌‍​‍​﻿​​‌‍​‌‌‍‌‌​﻿‍​​﻿‌​​﻿​​‌‍​﻿
 
 ## 📝 1. Enunciado y Contexto
 Un **Restaurante de Alta Cocina** llamado "Restauración Fina", que cuenta con múltiples Salones, requiere digitalizar la toma de comandas de sus Camareros. La cuenta final para los Clientes debe poder agrupar varios Platos y Bebidas con cantidades diferentes, que provienen de una Carta o Menú estandarizado. Al cerrar la mesa, la Comanda se factura y almacena.

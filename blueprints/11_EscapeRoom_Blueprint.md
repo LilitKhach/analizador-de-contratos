@@ -1,4 +1,4 @@
-# 🧩 Blueprint: Sistema "Escape Room Virtual"
+# 🧩 Blueprint: Sistema "Escape Room Virtual"‌‌‌​‌​‌‌​﻿‍‍​﻿‌‍‌‍​‌‌‍​‍​﻿​﻿​﻿​‌​﻿‍‌​﻿‍​​﻿​‌​﻿‌﻿‌‍​﻿​﻿​​​﻿​‍‌‍‌​​﻿​​​﻿​‌​﻿​‌
 
 ## 📝 1. Enunciado y Contexto
 El **Scaperoom "El Enigma"** cuenta con diferentes salas temáticas (Terror, Misterio, Sci-Fi) y requiere digitalizar las sesiones de juego. Necesitan registrar a los equipos de jugadores, los récords de tiempo para salir de cada sala, y llevar un registro de las pistas consumidas en cada intento.

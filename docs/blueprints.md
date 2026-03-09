@@ -1,4 +1,4 @@
-# Blueprints — 16 Proyectos Individuales
+# Blueprints — 16 Proyectos Individuales‌‌‌​‌​‌‌​﻿‍‍‌‍​‌​﻿​​​﻿‌​​﻿‍​‌‍​‌​﻿‌‍​﻿​‍​﻿‌‍‌‍‌‍​﻿​​​﻿​‍​﻿​​​﻿‌‌​﻿​‌​﻿‌​‌‍​‍
 
 En los dias 13-14, cada alumno elige **uno** de los 16 blueprints disponibles y construye su propio proyecto con Spring Boot + Hibernate.
 

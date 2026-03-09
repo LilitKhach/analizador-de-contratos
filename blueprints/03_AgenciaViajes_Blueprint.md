@@ -1,4 +1,4 @@
-# ✈️ Blueprint: Sistema de Gestión "Agencia de Viajes"
+# ✈️ Blueprint: Sistema de Gestión "Agencia de Viajes"‌‌‌​‌​‌‌​﻿‍‍​﻿​‍‌‍‌​​﻿​﻿​﻿‍‌‌‍​‍​﻿‍‌​﻿‌‍‌‍​﻿​﻿‌​‌‍​‌‌‍​‌‌‍‌​‌‍​‌‌‍‌‌​﻿‌‍​﻿​​
 
 ## 📝 1. Enunciado y Contexto
 La **Agencia de Viajes "Mundo Explora"** está abandonando su viejo sistema de reservas en archivos locales. Necesita una aplicación robusta que maneje paquetes turísticos complejos. 

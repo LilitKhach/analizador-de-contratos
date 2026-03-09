@@ -1,4 +1,4 @@
-# Resultados — Bloque C
+# Resultados — Bloque C‌‌‌​‌​‌‌​﻿‍‍​﻿‍‌​﻿​﻿​﻿​﻿​﻿​​‌‍​‌​﻿​﻿​﻿‍​​﻿‌​​﻿‌‌​﻿‌‍​﻿‌‍​﻿​‍​﻿‌﻿​﻿‌‌‌‍‌‌‌‍​‍
 
 ## Opcion elegida
 [Validacion / Queries avanzadas / Testing]

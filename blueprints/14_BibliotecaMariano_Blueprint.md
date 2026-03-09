@@ -1,4 +1,4 @@
-# 📚 Blueprint: Biblioteca "Mariano Literatura"
+# 📚 Blueprint: Biblioteca "Mariano Literatura"‌‌‌​‌​‌‌​﻿‍‍​﻿‌﻿​﻿‍‌‌‍​‍‌‍​﻿​﻿​​​﻿‌​​﻿​​​﻿​​‌‍‌‌​﻿​‌‌‍‌‍‌‍‌​​﻿‌﻿​﻿​‌​﻿​‍​﻿‌‌
 
 ## 📝 1. Enunciado y Contexto
 La **Biblioteca Municipal Mariano** tiene cientos de libros clasificados por temática, pero al momento de prestar volúmenes a los socios lo anotan a bolígrafo. Necesitan digitalizar todo el fondo documental de **Obras Literarias**, el directorio de **Autores**, y llevar el control estricto de **Préstamos** hechos a un conjunto de **Socios Lector** registrados, alertando y guardando penalizaciones por demoras.

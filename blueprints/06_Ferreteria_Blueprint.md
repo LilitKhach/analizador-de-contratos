@@ -1,4 +1,4 @@
-# 🛠️ Blueprint: Sistema de Gestión "Ferretería El Clavo"
+# 🛠️ Blueprint: Sistema de Gestión "Ferretería El Clavo"‌‌‌​‌​‌‌​﻿‍‍​﻿‍​​﻿​‍‌‍​﻿​﻿‌‌​﻿​​​﻿‍‌​﻿​﻿‌‍​﻿​﻿‍‌​﻿​﻿​﻿‌‍‌‍​﻿​﻿‍​​﻿‍‌‌‍‌‌​﻿‌‍
 
 ## 📝 1. Enunciado y Contexto
 La **Ferretería El Clavo** tiene un sistema desfasado de control de inventario y está migrando a un software Java moderno conectado a PostgreSQL. El nuevo sistema necesita gestionar **Productos** (tornillos, martillos, pintura), los **Proveedores** que suministran la mercancía, y el registro de **Entradas de Stock** y **Ventas** de mostrador a clientes de paso o recurrentes.

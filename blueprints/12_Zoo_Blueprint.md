@@ -1,4 +1,4 @@
-# 🦁 Blueprint: Sistema Gestión "Zoo Park"
+# 🦁 Blueprint: Sistema Gestión "Zoo Park"‌‌‌​‌​‌‌​﻿‍‍​﻿‌﻿​﻿​‍‌‍‌​​﻿‌﻿‌‍​﻿​﻿‌﻿​﻿‍​‌‍‌‍​﻿​﻿​﻿​‌​﻿‌‍​﻿‌‌‌‍‌‌‌‍​﻿​﻿‍‌​﻿‌﻿
 
 ## 📝 1. Enunciado y Contexto
 El **Zoo Park** necesita modernizar su antiguo sistema Java. El parque tiene varias **Instalaciones** o hábitats (Zona Safari, Reptilario), alberga **Animales** de diversas especies, y contrata **Cuidadores** que tienen asignadas ciertas zonas específicas para alimentar y limpiar.

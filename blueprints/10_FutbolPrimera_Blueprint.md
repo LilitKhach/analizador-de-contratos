@@ -1,4 +1,4 @@
-# ⚽ Blueprint: Ligas Deportivas "Fútbol Primera"
+# ⚽ Blueprint: Ligas Deportivas "Fútbol Primera"‌‌‌​‌​‌‌​﻿‍‍​﻿‌‍​﻿‌​​﻿‍​​﻿‌​‌‍‌‍‌‍‌​​﻿‍‌‌‍​‍‌‍​﻿‌‍‌​​﻿‍​​﻿‌​​﻿​​​﻿‍​​﻿‌‌‌‍​‌
 
 ## 📝 1. Enunciado y Contexto
 El simulador de ligas **Fútbol Primera** ya cuenta con mucha lógica deportiva en memoria (ya tiene `pom.xml`), pero toda la puntuación, las jornadas y los equipos desaparecen al cerrar el programa. El objetivo es conectarlo a PostgreSQL para persistir el mercado de **Equipos**, **Jugadores profesionales**, los **Estadios** donde se juega y finalmente un registro histórico de los **Partidos Jugados** y resultados entre los grandes clubes de primera división.

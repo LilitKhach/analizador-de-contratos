@@ -1,4 +1,4 @@
-# 🖨️ Blueprint: Gestión "Taller Impresora 3D"
+# 🖨️ Blueprint: Gestión "Taller Impresora 3D"‌‌‌​‌​‌‌​﻿‍‍​﻿‌​​﻿‌‌​﻿​﻿‌‍​‍​﻿‌‍​﻿‍‌‌‍​‌​﻿​‍‌‍​‍​﻿‍​​﻿​​​﻿​﻿​﻿​﻿​﻿‌﻿​﻿​‌‌‍​‍
 
 ## 📝 1. Enunciado y Contexto
 Un **taller de impresión 3D a medida** ha crecido tanto que necesita una base de datos real para gestionar los pedidos de diseño, organizar sus bobinas de filamento (material) y asignar las impresiones en cola a sus máquinas disponibles, guardándolo de manera persistida.

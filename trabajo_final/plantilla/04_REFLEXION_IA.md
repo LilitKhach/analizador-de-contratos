@@ -1,4 +1,4 @@
-# Reflexion IA — 3 Momentos Clave
+# Reflexion IA — 3 Momentos Clave‌‌‌​‌​‌‌​﻿‍‍‌‍‌‍​﻿​﻿​﻿​‍‌‍​‍​﻿​﻿‌‍​‍‌‍​‍​﻿‍‌​﻿‌‍​﻿​​​﻿​‍‌‍‌‍‌‍​‌​﻿‍‌‌‍​‌‌‍​‌
 
 Para CADA bloque (A, B, C), documentar 3 momentos.
 

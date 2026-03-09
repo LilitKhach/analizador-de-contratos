@@ -1,4 +1,4 @@
-# 🥩 Blueprint: Carnicería "Manolo"
+# 🥩 Blueprint: Carnicería "Manolo"‌‌‌​‌​‌‌​﻿‍‍​﻿‌​​﻿‍‌​﻿‌‌​﻿‌​​﻿​‌‌‍‌‌​﻿​‌​﻿​‌​﻿​‍‌‍​‍​﻿‌​​﻿‍​​﻿​﻿‌‍​﻿​﻿​‍‌‍​‌
 
 ## 📝 1. Enunciado y Contexto
 La **Carnicería Manolo** lleva años registrando las ventas de carne (ternera, cerdo, pollo, etc.) en libretas. El dueño quiere digitalizarse y crear una aplicación donde pueda gestionar sus clientes habituales, el stock de los distintos tipos de carne, y generar tickets de venta (pedidos) que reúnan varios productos de forma automática.

@@ -1,4 +1,4 @@
-# Día 8 — Maven avanzado: Dependencias, plugins y perfiles
+# Día 8 — Maven avanzado: Dependencias, plugins y perfiles‌‌‌​‌​‌‌​﻿‍‍​﻿‌‍​﻿​​​﻿‍‌​﻿‌﻿​﻿​‌‌‍​﻿​﻿‌﻿​﻿‍​​﻿‌‍​﻿‌​​﻿‍‌‌‍‌‍​﻿​‍​﻿‌‌​﻿‌‌​﻿​‍
 
 Hoy profundizamos en las áreas clave de Maven que van a usar a diario en el trabajo: scopes, ciclo de vida, plugins, tests automáticos con JUnit 5 y perfiles por entorno.
 

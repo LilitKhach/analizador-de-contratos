@@ -1,4 +1,4 @@
-# 🎤 Blueprint: Sistema Entradas "Sala Conciertos"
+# 🎤 Blueprint: Sistema Entradas "Sala Conciertos"‌‌‌​‌​‌‌​﻿‍‍​﻿‌‍​﻿‌​‌‍‌‍​﻿‌​‌‍​‌‌‍‌‌​﻿‌‌​﻿​​‌‍​﻿‌‍​﻿​﻿​﻿​﻿​﻿‌‍‌‌‌‍‌‍‌‍‌​​﻿​﻿
 
 ## 📝 1. Enunciado y Contexto
 La **Sala de Conciertos Live Music** organiza diversos conciertos durante la semana con **Bandas** de rock, pop y jazz. Actualmente venden entradas en papel lo que dificulta saber los aforos permitidos de cada función. El desafío de este backend es asegurar que un evento (Concierto) no exceda el número de Entradas Vendidas según la capacidad del recinto.

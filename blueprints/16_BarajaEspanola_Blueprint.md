@@ -1,4 +1,4 @@
-# 🃏 Blueprint: Juego de Cartas "Baraja Española"
+# 🃏 Blueprint: Juego de Cartas "Baraja Española"‌‌‌​‌​‌‌​﻿‍‍‌‍‌‍​﻿‌‍‌‍‌‌​﻿‌﻿‌‍​‍​﻿‌​​﻿‍‌​﻿‍​​﻿‌‍​﻿​​​﻿‍​​﻿​﻿‌‍​‍​﻿‌‌‌‍‌‌​﻿‌​
 
 ## 📝 1. Enunciado y Contexto
 Un casino en línea quiere digitalizar los clásicos juegos de cartas españoles (como el Mus, el Truco o la Brisca). Necesitan un sistema que persista las **Cartas** de la baraja tradicional, los **Jugadores** registrados que se sientan a apostar, y el registro histórico de las **Partidas** jugadas, junto con las cartas que conformaron la mano (baza) ganadora de cada jugador.
