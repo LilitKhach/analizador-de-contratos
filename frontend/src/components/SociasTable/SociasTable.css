@@ -1,0 +1,200 @@
+.socias-table {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 24px 0;
+}
+
+.socias-table.loading,
+.socias-table.empty {
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #666;
+}
+
+.socias-table.empty {
+  color: #999;
+}
+
+.table-header {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.table-header h2 {
+  margin: 0;
+  font-size: 20px;
+  color: #333;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #f8f9fa;
+}
+
+th {
+  padding: 16px;
+  text-align: left;
+  font-weight: 600;
+  color: #495057;
+  border-bottom: 2px solid #dee2e6;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+td {
+  padding: 16px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+tr.socia-row:hover {
+  background-color: #f8f9fa;
+}
+
+tr.socia-row:hover td {
+  background-color: #f8f9fa;
+}
+
+.beneficio {
+  font-weight: 600;
+  color: #28a745;
+  font-size: 15px;
+}
+
+.contratos-count {
+  text-align: center;
+  font-weight: 500;
+  color: #6c757d;
+}
+
+.actions {
+  text-align: center;
+}
+
+.expand-btn,
+.view-btn {
+  background-color: #667eea;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  margin: 0 4px;
+}
+
+.expand-btn {
+  min-width: 36px;
+  padding: 8px;
+}
+
+.expand-btn:hover,
+.view-btn:hover {
+  background-color: #5568d3;
+  transform: translateY(-2px);
+}
+
+.view-btn {
+  background-color: #28a745;
+}
+
+.view-btn:hover {
+  background-color: #218838;
+}
+
+.expansion-row {
+  background-color: #f8f9fa;
+}
+
+.expansion-row td {
+  padding: 0;
+  border-bottom: none;
+}
+
+.contratos-detail {
+  padding: 20px;
+  background-color: #fff;
+  border-top: 2px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.contratos-detail h4 {
+  margin: 0 0 12px 0;
+  color: #333;
+  font-size: 15px;
+}
+
+.contratos-detail ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contratos-detail li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #f8f9fa;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.contratos-detail li:last-child {
+  margin-bottom: 0;
+}
+
+.contrato-numero {
+  font-weight: 600;
+  color: #667eea;
+}
+
+.contrato-beneficio {
+  color: #28a745;
+  font-weight: 600;
+}
+
+.contratos-detail p {
+  margin: 0;
+  text-align: center;
+  color: #999;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  th,
+  td {
+    padding: 12px 8px;
+    font-size: 13px;
+  }
+
+  .table-header {
+    padding: 16px 12px;
+  }
+
+  .table-header h2 {
+    font-size: 18px;
+  }
+
+  .expand-btn,
+  .view-btn {
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+}
+

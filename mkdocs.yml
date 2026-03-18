@@ -1,0 +1,110 @@
+site_name: Spring Boot + Hibernate — De Cero a Produccion
+site_description: Curso completo de Spring Boot + Hibernate, desde Java puro hasta Docker y CI/CD
+site_author: Juan Gutierrez - TodoEconometria
+site_url: https://todoeconometria.github.io/curso-spring-hibernate/
+
+repo_name: TodoEconometria/curso-spring-hibernate
+repo_url: https://github.com/TodoEconometria/curso-spring-hibernate
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: es
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.select
+    - toc.follow
+
+  logo: assets/todoeconometria_logo.png
+  favicon: assets/todoeconometria_logo.png
+  icon:
+    repo: fontawesome/brands/github
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search:
+      lang:
+        - es
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/TodoEconometria
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/juangutierrezconsultor/
+      name: LinkedIn
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC2ok03ltDHcVo1PZ1C8mGeg
+      name: YouTube
+    - icon: fontawesome/solid/globe
+      link: https://www.todoeconometria.com
+      name: Web TodoEconometria
+
+nav:
+  - Inicio: index.md
+  - Guia de Inicio: guia-inicio.md
+  - Blueprints: blueprints.md
+  - Evaluacion: evaluacion.md
+  - Git y GitHub:
+    - Referencia rapida: git-github.md
+    - Fork y clone: git-github/fork-clone.md
+    - Sincronizar fork: git-github/sincronizar-fork.md
+    - Comandos utiles: git-github/comandos-utiles.md
+    - Crear repo de portfolio: git-github/crear-repo-portfolio.md
+
+copyright: >
+  Copyright &copy; 2026 Juan Marcelo Gutierrez Miranda — TodoEconometria

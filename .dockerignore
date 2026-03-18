@@ -1,0 +1,54 @@
+# =============================================
+# Carpetas de build (se regeneran en el Docker build)
+# =============================================
+target/
+build/
+out/
+
+# =============================================
+# IDE (configuracion local de cada desarrollador)
+# =============================================
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# =============================================
+# Git (historial, no necesario para construir la imagen)
+# =============================================
+.git/
+.gitignore
+
+# =============================================
+# Docker (evitar recursion y archivos de compose)
+# =============================================
+docker-compose.yml
+docker-compose*.yml
+.dockerignore
+
+# =============================================
+# Maven wrapper (se descarga en el build)
+# =============================================
+.mvn/
+mvnw
+mvnw.cmd
+
+# =============================================
+# Documentacion y archivos no necesarios
+# =============================================
+*.md
+docs/
+LICENSE
+
+# =============================================
+# Variables de entorno y secretos (NUNCA incluir)
+# =============================================
+.env
+*.env
+*.pem
+*.key
+credentials/
