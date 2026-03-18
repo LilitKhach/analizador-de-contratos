@@ -28,18 +28,19 @@ Este proyecto cuenta con una arquitectura **full-stack completa**:
 ---
 
 ## Estructura del Proyecto
+```
 analizador-de-contratos/
-├── src/ # Código backend
+├── src/ # Backend code
 │ ├── main/java/com/finanalizador/
 │ │ ├── AnalizadorFinancieroApplication.java
-│ │ ├── controlador/ # Controladores REST
+│ │ ├── controlador/ # REST controllers
 │ │ ├── dto/ # Data Transfer Objects
-│ │ ├── modelo/ # Modelos de entidad
-│ │ ├── repositorio/ # Capa de acceso a datos
-│ │ └── servicio/ # Lógica de negocio
+│ │ ├── modelo/ # Entity models
+│ │ ├── repositorio/ # Data access layer (repositories)
+│ │ └── servicio/ # Business logic
 │ └── resources/
 │ └── application.properties
-├── frontend/ # Frontend React
+├── frontend/ # React frontend
 │ ├── public/
 │ ├── src/
 │ ├── Dockerfile
@@ -52,7 +53,7 @@ analizador-de-contratos/
 ├── FRONTEND_SETUP.md
 ├── DOCKER_SETUP.md
 └── README.md
-
+```
 
 ## Endpoints de la API
 
